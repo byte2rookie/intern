@@ -1,0 +1,5 @@
+完成CS231n前transformer时代的内容学习
+接下来步骤
+transformer手撕
+diffusion模型复现论文内容
+多模态入门
