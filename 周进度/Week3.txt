@@ -1,0 +1,7 @@
+1.对transformer各种变式的学习和复现(Bert,ViT,……)
+2.对diffusion系列模型,VAE系列模型，CLIP模型的学习
+3.TinyML学习Lec4~8 完成lab1,lab2
+4.学习部分langchain的概念和多模态相关的知识
+
+尝试去复现ldm的diffusion unet结构
+了解cross attention的使用等

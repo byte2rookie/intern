@@ -3,3 +3,10 @@
 transformer手撕
 diffusion模型复现论文内容
 多模态入门
+
+实习生-周正毅-周进度汇报
+1.完成了经典的图像分割算法的学习，并复现Unet
+2.深入学习了transformer的每一部分的原理，并对transformer模型进行复现
+3.学习了diffusion model原理与VAE，GAN等其他图像生成模型的原理
+4.对diffusion model进行复现（未完全完成）
+5.TinyML Lec5~6理论学习
